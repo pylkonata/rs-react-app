@@ -1,0 +1,12 @@
+.chars-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.chars-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}

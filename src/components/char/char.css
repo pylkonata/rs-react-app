@@ -1,0 +1,11 @@
+.char {
+  width: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.char-img {
+  width: 15rem;
+}
