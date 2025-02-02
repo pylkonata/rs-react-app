@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Roboto:wght@400;500;700&display=swap');
+
+html,
+body,
+#root {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
+
+p,
+h1,
+h2,
+h3,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
